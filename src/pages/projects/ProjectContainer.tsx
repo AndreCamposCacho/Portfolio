@@ -1,5 +1,3 @@
-import React from "react";
-
 interface ProjectContainerProps {
   thumbnailSrc: string;
   title: string;
